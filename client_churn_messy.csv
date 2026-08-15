@@ -1,0 +1,11 @@
+Client_ID,Join_Date,Last_Active,Age,Subscription_Type,Support_Calls,Total_Spent,Region,Churned
+C-1001,1/10/2025,3/12/2026,34,Gold,$450.50 ,US-East,No,
+C-1002,15/02/2025,11/20/2025,twenty-two,Silver,2,120,US-West,N
+C-1003,3/1/2025,UNKNOWN,45,Platinum,5,999.99,CA-North,Yes
+C-1002,15/02/2025,11/20/2025,22,Silver,2,120,US-West,N
+C-1004,4/12/2025,5/1/2026,,Gold,1,340,UK-London,No
+C-1005,5/12/2025,1/10/2026,29,Basic,NA,15.5,,Yes
+C-1006,6/18/2025,6/1/2026,51,Silver,8,-50,US-West,Yes
+C-1007,7/20/2025,5/15/2026,38,Gold,3,invalid_spend,US-East,No
+C-1008,8/1/2025,4/10/2026,42,Platinum,4,450,CA-South,0
+C-1009,9/15/2025,5/20/2026,31,Basic,0,50,US-East,1
